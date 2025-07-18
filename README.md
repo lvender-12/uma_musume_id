@@ -35,6 +35,7 @@ Setelah patcher terpasang, **login ke game dan unduh semua data** terlebih dahul
 - Copy folder `localized_data` dari repo ini
 - **Paste ke path berikut:**  
   `android/media/jp.co.cygames.umamusume/hachimi/`
+- Sebelum di replace pastikan buat backup dahulu untuk jaga jaga jika replace tidak berhasil
 - Replace file `localized_data` yang lama dengan file dari patch ini
 
 ---
