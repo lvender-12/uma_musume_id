@@ -30,6 +30,11 @@ Setelah patcher terpasang, **login ke game dan unduh semua data** terlebih dahul
 ---
 
 ### 4. Download Patch Indo dari Repository Ini
+
+> ❗ **Jika kalian sudah punya Uma Musume JP yang sudah dimod menggunakan Uma Patcher, kalian bisa langsung lanjut ke langkah ini tanpa perlu ulangi langkah 1-3!**
+> 
+> **Tidak perlu menghapus ulang game atau menginstal ulang Uma Patcher**, cukup tempelkan patch dari repo ini.
+
 - Klik tombol **Code > Download ZIP**
 - Ekstrak hasilnya
 - Copy folder `localized_data` dari repo ini
@@ -61,6 +66,20 @@ Tapi project ini akan selalu terbuka untuk yang mau bantu kontribusi!
 ## ❗ Warning Tambahan
 Beberapa teks mungkin masih menggunakan bahasa Jepang karena saya hanya menerjemahkan teks yang sudah disediakan atau yang telah di-translate ke bahasa Inggris oleh pihak **Hachimi**.  
 Jika pihak Hachimi melakukan update ke versi terbaru, saya akan usahakan untuk melakukan update patch juga.
+
+---
+
+## 📌 Bagaimana Cara Saya Melakukan Translasi?
+
+Saya melakukan translasi tidak sepenuhnya manual, melainkan menggunakan **script/codingan buatan sendiri** agar bisa meng-translate secara otomatis dalam satu file sekaligus. Ini membantu mempercepat proses translasi, tapi juga memiliki beberapa kelemahan:
+- Beberapa kode sistem yang seharusnya tidak berubah kadang ikut ter-translate.
+- Saya sudah membuat pengecualian untuk bagian tertentu, tapi karena script ini masih pengembangan, tetap saja ada kemungkinan kesalahan.
+- Proses translasi dilakukan otomatis, namun hasilnya **tetap saya cek dan koreksi manual** agar lebih rapi.
+- Biasanya saya cek di dalam game, jika ada error saya revisi dan tambahkan pengecualian ke script supaya kedepannya lebih baik.
+- Total line per file kadang lebih dari **2000 baris**, jadi butuh kesabaran, ketelitian, dan percobaan berulang-ulang.
+- Proyek ini saya kerjakan **sendiri**, jadi mohon maklum kalau tidak bisa 100% rapi.
+
+Metode semi-otomatis ini saya gunakan agar translasi bisa berjalan **cepat tapi tetap ada proses manual fixing**, dan siapa tahu di masa depan jadi makin akurat.
 
 ---
 
